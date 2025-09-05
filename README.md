@@ -1,4 +1,4 @@
 # first_project
 This is my first project
 <br>
-Auther - Sameer Kumar
+Auther - Sameer Kumar(PSIT)
